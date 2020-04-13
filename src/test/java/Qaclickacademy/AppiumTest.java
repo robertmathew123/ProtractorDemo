@@ -12,12 +12,30 @@ public class AppiumTest {
 		
 	}//NativeAppAnroid
 	
+	@Test
+	public void NativeAppAnroid2()
+	{
+		
+	System.out.println("NativeAppAnroid");
+		
+	}//NativeAppAnroid
+	
+	@Test
+	public void NativeAppAnroid3()
+	{
+		
+	System.out.println("NativeAppAnroid");
+		
+	}//NativeAppAnroid
+	
 	
 	@Test
 	public void IOSApps()
 	{
 		
 	System.out.println("IOSApps");
+	System.out.println("IOSApps1");
+	System.out.println("IOSApps1");
 		
 	}//deleteTwitter
 
